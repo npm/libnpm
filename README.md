@@ -2,6 +2,9 @@
 
 [`libnpm`](https://github.com/npm/libnpm) is the programmatic API for npm.
 
+For bug reports and support, please head over to [npm.community](https://npm.community).
+
+
 ## Install
 
 `$ npm install libnpm`
