@@ -1,7 +1,7 @@
 {
   "name": "libnpm",
-  "version": "0.0.1",
-  "description": "programmatic npm API",
+  "version": "1.0.0",
+  "description": "Collection of programmatic APIs for the npm CLI",
   "main": "index.js",
   "files": [
     "*.js",
@@ -20,21 +20,28 @@
   "keywords": [
     "npm",
     "api",
-    "package manager"
+    "package manager",
+    "lib"
   ],
   "author": "Kat Marchán <kzm@zkat.tech>",
   "license": "ISC",
   "dependencies": {
-    "figgy-pudding": "^2.0.1",
-    "libcipm": "^1.6.1",
-    "libnpmhook": "^3.0.0",
-    "pacote": "^7.6.1"
+    "libnpmaccess": "^2.0.0",
+    "libnpmhook": "^5.0.0",
+    "libnpmorg": "^1.0.0",
+    "libnpmpublish": "^1.0.1",
+    "libnpmsearch": "^2.0.0",
+    "libnpmteam": "^1.0.0",
+    "npm-lifecycle": "^2.1.0",
+    "npm-profile": "^4.0.0",
+    "npm-registry-fetch": "^3.3.0",
+    "pacote": "^9.1.0"
   },
   "devDependencies": {
     "nock": "^9.2.3",
     "standard": "^11.0.1",
     "standard-version": "^4.3.0",
-    "tap": "^11.1.2",
+    "tap": "^12.0.1",
     "weallbehave": "^1.2.0",
     "weallcontribute": "^1.0.8"
   }
