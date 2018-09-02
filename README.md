@@ -19,20 +19,20 @@ For bug reports and support, please head over to [npm.community](https://npm.com
     * [`packument`](https://www.npmjs.com/package/pacote#packument)
     * [`tarball`](https://www.npmjs.com/package/pacote#tarball)
     * [`extract`](https://www.npmjs.com/package/pacote#extract)
-    * [`search`](https://npm.im/libnpmsearch)
+    * [`search`](https://www.npmjs.com/package/libnpmsearch#searchquery-opts---promise)
   * Package-related Registry APIs
-    * [`publish`]()
-    * [`unpublish`](#unpublish)
-    * [`access`](https://npm.im/libnpmaccess)
+    * [`publish`](https://www.npmjs.com/packagelibnpmpublish#libpubpublishpkgjson-tardata-opts---promise)
+    * [`unpublish`](https://www.npmjs.com/package/libnpmpublish#libpubunpublishspec-opts---promise)
+    * [`access`](https://www.npmjs.com/package/libnpmaccess)
   * Account-related Registry APIs
     * [`login`](https://www.npmjs.com/package/npm-profile#login)
     * [`adduser`](https://www.npmjs.com/package/npm-profile#adduser)
     * [`profile`](https://npm.im/npm-profile)
-    * [`hook`](https://npm.im/libnpmhook)
-    * [`team`](https://npm.im/libnpmteam)
-    * [`org`](https://npm.im/libnpmorg)
+    * [`hook`](https://www.npmjs.com/package/libnpmhook#api)
+    * [`team`](https://www.npmjs.com/package/libnpmteam#api)
+    * [`org`](https://www.npmjs.com/package/libnpmorg#api)
   * Miscellaneous
-    * [`runScript`](https://www.npmjs.com/package/npm-lifecycle)
+    * [`runScript`](https://www.npmjs.com/package/npm-lifecycle#lifecycle)
     * [`fetch`](https://npm.im/npm-registry-fetch) (plain ol' client for registry interaction)
 
 ### Example
