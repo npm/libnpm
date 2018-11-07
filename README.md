@@ -38,6 +38,7 @@ For bug reports and support, please head over to [npm.community](https://npm.com
     * [`verifyLock`](https://npm.im/lock-verify)
     * [`getPrefix`](https://npm.im/find-npm-prefix)
     * [`logicalTree`](https://npm.im/npm-logical-tree)
+    * [`stringifyPackage`](https://npm.im/stringify-package)
     * [`runScript`](https://www.npmjs.com/package/npm-lifecycle)
     * [`fetch`](https://npm.im/npm-registry-fetch) (plain ol' client for registry interaction)
 

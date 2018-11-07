@@ -9,6 +9,7 @@ module.exports = {
   logicalTree: require('npm-logical-tree'),
   getPrefix: require('find-npm-prefix'),
   verifyLock: require('lock-verify'),
+  stringifyPackage: require('stringify-package'),
   manifest: require('pacote').manifest,
   tarball: require('pacote').tarball,
   extract: require('pacote').extract,
