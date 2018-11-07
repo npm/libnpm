@@ -40,6 +40,7 @@ For bug reports and support, please head over to [npm.community](https://npm.com
     * [`logicalTree`](https://npm.im/npm-logical-tree)
     * [`stringifyPackage`](https://npm.im/stringify-package)
     * [`runScript`](https://www.npmjs.com/package/npm-lifecycle)
+    * [`log`](https://npm.im/npmlog)
     * [`fetch`](https://npm.im/npm-registry-fetch) (plain ol' client for registry interaction)
 
 ### Example

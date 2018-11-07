@@ -25,5 +25,6 @@ module.exports = {
   profile: require('npm-profile'),
   publish: require('libnpmpublish').publish,
   unpublish: require('libnpmpublish').unpublish,
-  runScript: require('npm-lifecycle')
+  runScript: require('npm-lifecycle'),
+  log: require('npmlog')
 }
