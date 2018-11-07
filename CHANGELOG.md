@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/npm/libnpm/compare/v1.0.0...v1.1.0) (2018-11-07)
+
+
+### Features
+
+* **config:** add libnpmconfig ([6a44725](https://github.com/npm/libnpm/commit/6a44725))
+* **json+tree:** add read-package-json and npm-logical-tree ([0198a91](https://github.com/npm/libnpm/commit/0198a91))
+* **lock+prefix:** add lock-verify and find-npm-prefix ([00750c9](https://github.com/npm/libnpm/commit/00750c9))
+* **parseArg:** add npm-package-arg ([5712614](https://github.com/npm/libnpm/commit/5712614))
+* **stringify:** add stringify-package ([0ec5bba](https://github.com/npm/libnpm/commit/0ec5bba))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/npm/libnpm/compare/v0.0.1...v1.0.0) (2018-08-31)
 
