@@ -2,6 +2,7 @@
 
 module.exports = {
   config: require('libnpmconfig'),
+  parseArg: require('npm-package-arg'),
   manifest: require('pacote').manifest,
   tarball: require('pacote').tarball,
   extract: require('pacote').extract,
