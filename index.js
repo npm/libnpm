@@ -7,6 +7,8 @@ module.exports = {
   parseArg: require('npm-package-arg'),
   readJSON: BB.promisify(require('read-package-json')),
   logicalTree: require('npm-logical-tree'),
+  getPrefix: require('find-npm-prefix'),
+  verifyLock: require('lock-verify'),
   manifest: require('pacote').manifest,
   tarball: require('pacote').tarball,
   extract: require('pacote').extract,
