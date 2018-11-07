@@ -27,6 +27,7 @@
   "license": "ISC",
   "dependencies": {
     "libnpmaccess": "^2.0.0",
+    "libnpmconfig": "^1.1.1",
     "libnpmhook": "^5.0.0",
     "libnpmorg": "^1.0.0",
     "libnpmpublish": "^1.0.1",

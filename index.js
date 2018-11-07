@@ -1,6 +1,7 @@
 'use strict'
 
 module.exports = {
+  config: require('libnpmconfig'),
   manifest: require('pacote').manifest,
   tarball: require('pacote').tarball,
   extract: require('pacote').extract,

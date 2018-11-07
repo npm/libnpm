@@ -32,6 +32,7 @@ For bug reports and support, please head over to [npm.community](https://npm.com
     * [`team`](https://npm.im/libnpmteam)
     * [`org`](https://npm.im/libnpmorg)
   * Miscellaneous
+    * [`config`](https://npm.im/libnpmconfig)
     * [`runScript`](https://www.npmjs.com/package/npm-lifecycle)
     * [`fetch`](https://npm.im/npm-registry-fetch) (plain ol' client for registry interaction)
 
