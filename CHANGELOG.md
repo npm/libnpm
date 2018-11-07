@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/npm/libnpm/compare/v1.2.0...v1.3.0) (2018-11-07)
+
+
+### Features
+
+* **bin:** add binLinks lib ([2f4d551](https://github.com/npm/libnpm/commit/2f4d551))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/npm/libnpm/compare/v1.1.0...v1.2.0) (2018-11-07)
 
