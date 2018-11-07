@@ -1,8 +1,12 @@
 'use strict'
 
+const BB = require('bluebird')
+
 module.exports = {
   config: require('libnpmconfig'),
   parseArg: require('npm-package-arg'),
+  readJSON: BB.promisify(require('read-package-json')),
+  logicalTree: require('npm-logical-tree'),
   manifest: require('pacote').manifest,
   tarball: require('pacote').tarball,
   extract: require('pacote').extract,

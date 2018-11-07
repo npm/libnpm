@@ -34,6 +34,8 @@ For bug reports and support, please head over to [npm.community](https://npm.com
   * Miscellaneous
     * [`parseArg`](https://npm.im/npm-package-arg)
     * [`config`](https://npm.im/libnpmconfig)
+    * [`readJSON`](https://npm.im/read-package-json)
+    * [`logicalTree`](https://npm.im/npm-logical-tree)
     * [`runScript`](https://www.npmjs.com/package/npm-lifecycle)
     * [`fetch`](https://npm.im/npm-registry-fetch) (plain ol' client for registry interaction)
 
