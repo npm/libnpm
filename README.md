@@ -42,6 +42,7 @@ For bug reports and support, please head over to [npm.community](https://npm.com
     * [`runScript`](https://www.npmjs.com/package/npm-lifecycle)
     * [`log`](https://npm.im/npmlog)
     * [`fetch`](https://npm.im/npm-registry-fetch) (plain ol' client for registry interaction)
+    * [`linkBin`](https://npm.im/bin-links)
 
 ### Example
 

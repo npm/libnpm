@@ -26,5 +26,6 @@ module.exports = {
   publish: require('libnpmpublish').publish,
   unpublish: require('libnpmpublish').unpublish,
   runScript: require('npm-lifecycle'),
-  log: require('npmlog')
+  log: require('npmlog'),
+  linkBin: require('bin-links')
 }

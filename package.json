@@ -26,6 +26,7 @@
   "author": "Kat Marchán <kzm@zkat.tech>",
   "license": "ISC",
   "dependencies": {
+    "bin-links": "^1.1.2",
     "bluebird": "^3.5.3",
     "find-npm-prefix": "^1.0.2",
     "libnpmaccess": "^2.0.0",
