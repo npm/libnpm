@@ -27,7 +27,6 @@
   "license": "ISC",
   "dependencies": {
     "bin-links": "^1.1.2",
-    "bluebird": "^3.5.3",
     "find-npm-prefix": "^1.0.2",
     "libnpmaccess": "^2.0.0",
     "libnpmconfig": "^1.1.1",
