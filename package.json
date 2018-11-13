@@ -35,6 +35,7 @@
     "libnpmpublish": "^1.0.1",
     "libnpmsearch": "^2.0.0",
     "libnpmteam": "^1.0.0",
+    "lock-verify": "^2.0.2",
     "npm-lifecycle": "^2.1.0",
     "npm-logical-tree": "^1.2.1",
     "npm-package-arg": "^6.1.0",
