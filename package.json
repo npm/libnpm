@@ -1,6 +1,6 @@
 {
   "name": "libnpm",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Collection of programmatic APIs for the npm CLI",
   "main": "index.js",
   "files": [

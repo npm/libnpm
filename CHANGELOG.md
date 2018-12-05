@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.1"></a>
+## [2.0.1](https://github.com/npm/libnpm/compare/v2.0.0...v2.0.1) (2018-12-05)
+
+
+### Bug Fixes
+
+* **read-json:** use bluebird for promisification ([8dddde6](https://github.com/npm/libnpm/commit/8dddde6))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/npm/libnpm/compare/v1.5.0...v2.0.0) (2018-11-27)
 
