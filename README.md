@@ -21,8 +21,8 @@ For bug reports and support, please head over to [npm.community](https://npm.com
     * [`extract`](https://www.npmjs.com/package/pacote#extract)
     * [`search`](https://npm.im/libnpmsearch)
   * Package-related Registry APIs
-    * [`publish`]()
-    * [`unpublish`](#unpublish)
+    * [`publish`](https://npm.im/libnpmpublish)
+    * [`unpublish`](https://npm.im/libnpmpublish)
     * [`access`](https://npm.im/libnpmaccess)
   * Account-related Registry APIs
     * [`login`](https://www.npmjs.com/package/npm-profile#login)
