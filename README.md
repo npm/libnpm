@@ -15,10 +15,10 @@ For bug reports and support, please head over to [npm.community](https://npm.com
 * [Features](#features)
 * [API](#api)
   * Fetching Packages and Their Info
-    * [`manifest`](https://www.npmjs.com/package/pacote#manifest)
-    * [`packument`](https://www.npmjs.com/package/pacote#packument)
-    * [`tarball`](https://www.npmjs.com/package/pacote#tarball)
-    * [`extract`](https://www.npmjs.com/package/pacote#extract)
+    * [`manifest`](https://www.npmjs.com/package/pacote#manifests)
+    * [`packument`](https://www.npmjs.com/package/pacote#packuments)
+    * [`tarball`](https://www.npmjs.com/package/pacote#api)
+    * [`extract`](https://www.npmjs.com/package/pacote#api)
     * [`search`](https://npm.im/libnpmsearch)
   * Package-related Registry APIs
     * [`publish`]()
